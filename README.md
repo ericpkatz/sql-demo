@@ -1,0 +1,2 @@
+- create whatever databases you are going to use first
+- psql -f file_name -d database_name
